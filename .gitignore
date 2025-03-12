@@ -1,0 +1,36 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.temp
+*.tmp
+
+# NuGet packages
+*.nupkg
+# Uncomment if you have a packages folder in your project
+# /packages/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Azure Web Apps publish settings
+*.Publish.xml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
